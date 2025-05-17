@@ -1,4 +1,7 @@
-## Hi there 👋
+Olá! 👋👋
+
+Me chamo Pedro Ramos e estou atualmente estudando Engenharia de Software na UnB.
+Pretendo no futuro começar a trabalhar com jogos e tenho algumas ideias bem ambiciosas.
 
 <!--
 **PedroRSR/PedroRSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
